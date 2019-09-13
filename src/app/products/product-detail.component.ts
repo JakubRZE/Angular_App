@@ -5,7 +5,7 @@ import { IProduct } from './product';
   templateUrl: './products-detail.component.html',
   styleUrls: ['./products-detail.component.css']
 })
-export class ProductsDetailComponent implements OnInit {
+export class ProductDetailComponent implements OnInit {
 pageTitle: string = 'Product Details';
 product: IProduct;
 
