@@ -17,5 +17,5 @@ import {Component} from '@angular/core';
 })
 
 export class AppComponent{
-  pageTitle: string = 'Pełen Hardkor!';
+  pageTitle: string = 'Angular Traning!';
 }
